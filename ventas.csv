@@ -1,0 +1,204 @@
+IdVenta,Fecha,Producto,Categoria,Ciudad,Cantidad,PrecioUnitario
+1,2026-06-04,Laptop,Tecnologia,Aguascalientes,5,8174
+2,2026-02-05,Mouse,Tecnologia,Aguascalientes,9,2998
+3,2026-05-14,Laptop,Tecnologia,Queretaro,2,7314
+4,2026-02-17,Laptop,Tecnologia,San Luis Potosi,4,23612
+5,2026-06-23,Disco Duro,Tecnologia,Leon,8,19459
+6,2026-03-26,Laptop,Tecnologia,Leon,7,11299
+7,2026-03-05,Monitor,Tecnologia,Celaya,2,3189
+8,2026-04-04,Tablet,Tecnologia,Celaya,10,8817
+9,2026-01-24,Memoria USB,Tecnologia,San Luis Potosi,2,12553
+10,2026-01-18,Impresora,Tecnologia,Aguascalientes,10,12000
+11,2026-05-07,Mouse,Tecnologia,,4,9632
+12,2026-01-28,Monitor,Tecnologia,Queretaro,7,9258
+13,2026-04-21,Tablet,Tecnologia,Leon,6,11791
+14,2026-02-22,Impresora,Tecnologia,Aguascalientes,2,20110
+15,2026-06-06,Monitor,Tecnologia,Leon,8,12583
+16,2026-03-21,Monitor,Tecnologia,Aguascalientes,6,1982
+17,2026-02-27,Laptop,Tecnologia,Celaya,7,8923
+18,2026-01-07,Tablet,Tecnologia,Leon,8,13114
+19,2026-06-15,Teclado,Tecnologia,Celaya,3,8231
+20,2026-06-18,Impresora,Tecnologia,Aguascalientes,10,14188
+21,2026-05-13,Tablet,Tecnologia,Leon,3,16846
+22,2026-04-03,Laptop,Tecnologia,Queretaro,3,20710
+23,2026-02-26,Disco Duro,Tecnologia,San Luis Potosi,2,12758
+24,2026-04-20,Memoria USB,Tecnologia,San Luis Potosi,5,18278
+25,2026-01-22,Mouse,Tecnologia,Aguascalientes,9,24754
+26,2026-03-25,Tablet,Tecnologia,,5,14396
+27,2026-02-15,Laptop,Tecnologia,Aguascalientes,5,16553
+28,2026-02-17,Mouse,Tecnologia,Aguascalientes,5,21087
+29,2026-05-20,Monitor,Tecnologia,Leon,6,5443
+30,2026-05-25,Laptop,Tecnologia,San Luis Potosi,6,16160
+31,2026-01-04,Tablet,Tecnologia,Celaya,4,2048
+32,2026-02-19,Mouse,Tecnologia,Queretaro,8,2417
+33,2026-05-25,Teclado,Tecnologia,Leon,8,18165
+34,2026-02-09,Disco Duro,Tecnologia,Leon,9,24898
+35,2026-06-23,Monitor,Tecnologia,Aguascalientes,5,13224
+36,2026-06-21,Tablet,Tecnologia,Irapuato,9,14944
+37,2026-01-08,Monitor,Tecnologia,Queretaro,6,839
+38,2026-05-18,Monitor,Tecnologia,San Luis Potosi,4,385
+39,2026-01-23,Laptop,Tecnologia,Leon,2,1179
+40,2026-03-03,Monitor,Tecnologia,Celaya,8,7170
+41,2026-05-05,Memoria USB,Tecnologia,,8,13488
+42,2026-02-04,Mouse,Tecnologia,Aguascalientes,7,11759
+43,2026-04-14,Memoria USB,Tecnologia,Aguascalientes,1,22214
+44,2026-06-21,Mouse,Tecnologia,Queretaro,7,24012
+45,2026-03-26,Mouse,Tecnologia,Leon,4,6382
+46,2026-05-15,Teclado,Tecnologia,Irapuato,3,9277
+47,2026-04-08,Mouse,Tecnologia,Irapuato,9,3358
+48,2026-01-21,Laptop,Tecnologia,Queretaro,4,5599
+49,2026-04-16,Memoria USB,Tecnologia,Leon,7,2071
+50,2026-02-13,Laptop,Tecnologia,Irapuato,5,15059
+51,2026-03-14,mouse,Tecnologia,Leon,4,9872
+52,2026-02-02,MOUSE,Tecnologia,Aguascalientes,6,2023
+53,2026-01-19, Mouse ,Tecnologia,San Luis Potosi,9,5308
+54,2026-01-17,Mouse,Tecnologia,Leon,2,19648
+55,2026-01-22,Monitor,Tecnologia,Irapuato,2,18817
+56,2026-02-19,Laptop,Tecnologia,San Luis Potosi,2,13887
+57,2026-06-19,Tablet,Tecnologia,Celaya,4,22095
+58,2026-06-11,Monitor,Tecnologia,Celaya,7,4438
+59,2026-06-21,Impresora,Tecnologia,Irapuato,6,24787
+60,2026-01-01,Memoria USB,Tecnologia,San Luis Potosi,10,3426
+61,2026-01-18,Monitor,Tecnologia,San Luis Potosi,5,4490
+62,2026-03-03,Monitor,Tecnologia,Celaya,5,5319
+63,2026-04-27,Impresora,Tecnologia,San Luis Potosi,9,406
+64,2026-06-27,Impresora,Tecnologia,Aguascalientes,2,4550
+65,2026-03-04,Mouse,Tecnologia,Aguascalientes,9,5243
+66,2026-03-10,Monitor,Tecnologia,Aguascalientes,6,6821
+67,2026-06-21,Impresora,Tecnologia,San Luis Potosi,8,8378
+68,2026-01-03,Disco Duro,Tecnologia,Celaya,1,266
+69,2026-03-25,Teclado,Tecnologia,Aguascalientes,5,5444
+70,2026-06-15,Disco Duro,Tecnologia,San Luis Potosi,1,3815
+71,2026-01-23,Teclado,Tecnologia,San Luis Potosi,1,12248
+72,2026-05-18,Teclado,Tecnologia,Irapuato,3,1520
+73,2026-03-12,Laptop,Tecnologia,Celaya,4,22499
+74,2026-02-22,Mouse,Tecnologia,Celaya,9,13466
+75,2026-05-24,Teclado,Tecnologia,Leon,3,5951
+76,2026-04-01,Teclado,Tecnologia,Aguascalientes,6,13641
+77,2026-06-28,Monitor,Tecnologia,Celaya,3,23129
+78,2026-01-13,Laptop,Tecnologia,Irapuato,4,6689
+79,2026-04-12,Impresora,Tecnologia,Leon,4,925
+80,2026-06-07,Disco Duro,Tecnologia,Celaya,5,2424
+81,2026-03-12,Disco Duro,Tecnologia,Aguascalientes,9,11001
+82,2026-01-04,Impresora,Tecnologia,Leon,10,8848
+83,2026-01-04,Disco Duro,Tecnologia,Celaya,6,14449
+84,2026-05-17,Mouse,Tecnologia,Irapuato,10,6378
+85,2026-03-02,Disco Duro,Tecnologia,Queretaro,9,17793
+86,2026-06-24,Monitor,Tecnologia,Celaya,7,2442
+87,2026-06-11,Tablet,Tecnologia,Aguascalientes,2,23734
+88,2026-03-17,Impresora,Tecnologia,Aguascalientes,7,10838
+89,2026-04-23,Impresora,Tecnologia,San Luis Potosi,3,6436
+90,2026-04-22,Disco Duro,Tecnologia,Aguascalientes,3,20319
+91,2026-05-10,Disco Duro,Tecnologia,San Luis Potosi,1,10107
+92,2026-03-07,Disco Duro,Tecnologia,San Luis Potosi,10,21603
+93,2026-03-15,Memoria USB,Tecnologia,Irapuato,4,16900
+94,2026-04-26,Teclado,Tecnologia,Aguascalientes,2,9449
+95,2026-05-22,Tablet,Tecnologia,Queretaro,4,22196
+96,2026-03-08,Monitor,Tecnologia,Leon,1,1664
+97,2026-02-16,Mouse,Tecnologia,Irapuato,7,20786
+98,2026-05-07,Disco Duro,Tecnologia,Irapuato,7,8144
+99,2026-02-21,Laptop,Tecnologia,Queretaro,7,7320
+100,2026-02-26,Memoria USB,Tecnologia,Queretaro,9,8315
+101,2026-01-15,Teclado,Tecnologia,Irapuato,9,18464
+102,2026-05-11,Memoria USB,Tecnologia,San Luis Potosi,9,14133
+103,2026-05-15,Teclado,Tecnologia,Aguascalientes,8,14897
+104,2026-03-25,Monitor,Tecnologia,Aguascalientes,5,17231
+105,2026-04-21,Monitor,Tecnologia,Celaya,8,2688
+106,2026-06-10,Monitor,Tecnologia,Celaya,6,10626
+107,2026-05-03,Teclado,Tecnologia,Leon,4,12701
+108,2026-06-05,Monitor,Tecnologia,Queretaro,7,13506
+109,2026-03-18,Memoria USB,Tecnologia,Irapuato,1,6927
+110,2026-04-13,Laptop,Tecnologia,San Luis Potosi,7,15779
+111,2026-01-12,Impresora,Tecnologia,Irapuato,7,17786
+112,2026-06-24,Monitor,Tecnologia,Irapuato,4,9093
+113,2026-04-16,Laptop,Tecnologia,Irapuato,6,22067
+114,2026-06-26,Disco Duro,Tecnologia,Aguascalientes,3,15465
+115,2026-02-20,Laptop,Tecnologia,Irapuato,10,18643
+116,2026-06-01,Mouse,Tecnologia,Aguascalientes,7,4596
+117,2026-04-06,Laptop,Tecnologia,Celaya,7,10876
+118,2026-02-15,Tablet,Tecnologia,Celaya,7,9267
+119,2026-04-09,Mouse,Tecnologia,Irapuato,1,24694
+120,2026-05-02,Tablet,Tecnologia,Leon,2,21506
+121,2026-01-25,Laptop,Tecnologia,Leon,4,817
+122,2026-05-05,Monitor,Tecnologia,Leon,8,22086
+123,2026-01-19,Monitor,Tecnologia,Irapuato,5,12237
+124,2026-02-20,Mouse,Tecnologia,Leon,5,3692
+125,2026-05-01,Impresora,Tecnologia,San Luis Potosi,7,13147
+126,2026-06-07,Mouse,Tecnologia,San Luis Potosi,4,3489
+127,2026-06-25,Impresora,Tecnologia,Aguascalientes,10,4116
+128,2026-05-26,Laptop,Tecnologia,Celaya,9,14187
+129,2026-06-12,Mouse,Tecnologia,San Luis Potosi,6,564
+130,2026-04-27,Memoria USB,Tecnologia,Queretaro,7,12018
+131,2026-06-27,Memoria USB,Tecnologia,Aguascalientes,3,14420
+132,2026-02-24,Impresora,Tecnologia,San Luis Potosi,9,15993
+133,2026-04-14,Impresora,Tecnologia,Celaya,4,2989
+134,2026-03-15,Monitor,Tecnologia,Irapuato,10,20149
+135,2026-06-13,Tablet,Tecnologia,Queretaro,8,10800
+136,2026-02-16,Monitor,Tecnologia,Celaya,5,11302
+137,2026-03-20,Impresora,Tecnologia,San Luis Potosi,1,17078
+138,2026-02-03,Monitor,Tecnologia,Aguascalientes,7,16159
+139,2026-05-25,Monitor,Tecnologia,Aguascalientes,8,21314
+140,2026-06-16,Memoria USB,Tecnologia,Queretaro,2,9791
+141,2026-02-13,Monitor,Tecnologia,Celaya,10,12242
+142,2026-04-18,Tablet,Tecnologia,Irapuato,9,10989
+143,2026-03-23,Memoria USB,Tecnologia,Celaya,5,8387
+144,2026-02-04,Monitor,Tecnologia,Celaya,2,24492
+145,2026-05-25,Teclado,Tecnologia,Leon,4,24352
+146,2026-04-09,Impresora,Tecnologia,Queretaro,4,9857
+147,2026-02-12,Teclado,Tecnologia,Celaya,1,23350
+148,2026-05-05,Impresora,Tecnologia,Queretaro,1,18282
+149,2026-03-23,Teclado,Tecnologia,Aguascalientes,8,3511
+150,2026-01-19,Impresora,Tecnologia,Irapuato,8,14583
+151,2026-03-06,Laptop,Tecnologia,Celaya,8,3888
+152,2026-01-13,Memoria USB,Tecnologia,Queretaro,10,20775
+153,2026-06-02,Teclado,Tecnologia,Leon,10,10106
+154,2026-01-08,Mouse,Tecnologia,San Luis Potosi,7,20017
+155,2026-05-26,Monitor,Tecnologia,San Luis Potosi,7,14912
+156,2026-04-10,Disco Duro,Tecnologia,Celaya,10,20499
+157,2026-01-20,Mouse,Tecnologia,Leon,4,8821
+158,2026-06-03,Teclado,Tecnologia,Leon,3,18237
+159,2026-01-06,Laptop,Tecnologia,Irapuato,8,22739
+160,2026-05-16,Impresora,Tecnologia,Queretaro,4,9590
+161,2026-06-10,Memoria USB,Tecnologia,Queretaro,4,8818
+162,2026-06-19,Monitor,Tecnologia,Irapuato,2,17994
+163,2026-02-21,Teclado,Tecnologia,Celaya,3,2489
+164,2026-01-06,Impresora,Tecnologia,San Luis Potosi,10,9607
+165,2026-04-04,Memoria USB,Tecnologia,Aguascalientes,5,23078
+166,2026-04-09,Memoria USB,Tecnologia,Irapuato,2,19746
+167,2026-01-14,Tablet,Tecnologia,San Luis Potosi,5,997
+168,2026-01-08,Laptop,Tecnologia,Aguascalientes,5,19032
+169,2026-01-25,Teclado,Tecnologia,Irapuato,9,21498
+170,2026-04-09,Teclado,Tecnologia,San Luis Potosi,7,20950
+171,2026-04-03,Memoria USB,Tecnologia,Celaya,7,11071
+172,2026-03-22,Mouse,Tecnologia,Leon,6,13638
+173,2026-06-16,Impresora,Tecnologia,Aguascalientes,7,18175
+174,2026-01-15,Mouse,Tecnologia,Celaya,5,10743
+175,2026-01-25,Disco Duro,Tecnologia,San Luis Potosi,1,21700
+176,2026-05-15,Disco Duro,Tecnologia,Queretaro,4,17138
+177,2026-03-20,Memoria USB,Tecnologia,Aguascalientes,8,1841
+178,2026-02-09,Teclado,Tecnologia,Celaya,8,23030
+179,2026-04-04,Laptop,Tecnologia,Aguascalientes,10,7991
+180,2026-06-06,Impresora,Tecnologia,San Luis Potosi,1,18246
+181,2026-04-03,Monitor,Tecnologia,Queretaro,8,3999
+182,2026-06-27,Teclado,Tecnologia,Irapuato,5,16824
+183,2026-06-09,Disco Duro,Tecnologia,Irapuato,8,8136
+184,2026-04-18,Teclado,Tecnologia,Irapuato,4,19790
+185,2026-05-24,Teclado,Tecnologia,Queretaro,5,13746
+186,2026-03-26,Impresora,Tecnologia,Queretaro,5,23941
+187,2026-03-27,Memoria USB,Tecnologia,Leon,8,17798
+188,2026-04-12,Tablet,Tecnologia,San Luis Potosi,9,12510
+189,2026-04-11,Monitor,Tecnologia,Aguascalientes,4,18886
+190,2026-04-08,Disco Duro,Tecnologia,Queretaro,6,24552
+191,2026-04-23,Disco Duro,Tecnologia,Irapuato,3,16380
+192,2026-01-05,Tablet,Tecnologia,Queretaro,8,3417
+193,2026-05-15,Laptop,Tecnologia,Aguascalientes,3,13584
+194,2026-06-05,Mouse,Tecnologia,Irapuato,5,11243
+195,2026-05-23,Disco Duro,Tecnologia,Aguascalientes,2,10916
+196,2026-06-28,Disco Duro,Tecnologia,Celaya,8,17878
+197,2026-01-20,Mouse,Tecnologia,Leon,5,7604
+198,2026-06-03,Disco Duro,Tecnologia,Queretaro,2,14688
+199,2026-02-23,Impresora,Tecnologia,Queretaro,1,10779
+200,2026-01-10,Tablet,Tecnologia,Celaya,7,4920
+16,2026-03-21,Monitor,Tecnologia,Aguascalientes,6,1982
+31,2026-01-04,Tablet,Tecnologia,Celaya,4,2048
+46,2026-05-15,Teclado,Tecnologia,Irapuato,3,9277

@@ -1,0 +1,201 @@
+id_venta,fecha,id_cliente,nombre_cliente,ciudad,id_curso,curso,modalidad,instructor,monto
+V0001,2025-11-24,CLI1002, Maria Lopez ,Puebla,CUR002,Data Science,PRESENCIAL,Dr. Ramirez,3000
+V0002,2025-02-27,CLI1001, Juan Perez ,Puebla,CUR007,Power BI,PRESENCIAL,Ing. Torres,4200
+V0003,2025-01-13,CLI1005,Luis Garcia,CDMX,CUR006,python,Online,DRA LOPEZ,5000
+V0004,2025-05-21,CLI1002, Maria Lopez ,Queretaro ,CUR007,python,Hibrido,Dra. Lopez,
+V0005,2025-05-06,CLI1010,PATRICIA FLORES,Queretaro ,CUR004,python,PRESENCIAL,Dra. Lopez,4200
+V0006,2025-04-25,CLI1008, Laura Sanchez ,Queretaro ,CUR003,sql,online,dr ramirez,5000
+V0007,2025-03-13,CLI1008,Laura Sanchez,CDMX,CUR001,Excel Avanzado,PRESENCIAL,Dra. Lopez,$3500 
+V0008,2025-02-22,CLI1002, Maria Lopez ,monterrey,CUR003,PowerBI,online,dr ramirez, 4200
+V0009,2025-12-13,CLI1009,Miguel Diaz,QRO,CUR008,python,Online,Dr. Ramirez,$3500 
+V0010,2025-10-07,CLI1003,PEDRO RUIZ,PUEBLA,CUR008,sql,Presencial,Ing. Torres, 4200
+V0011,2025-02-14,CLI1001,Juan Perez,Ciudad de Mexico,CUR007,PYTHON,PRESENCIAL,Dr. Ramirez,$3500 
+V0012,2025-10-30,CLI1005, Luis Garcia ,Puebla,CUR004,PYTHON,Presencial,dr ramirez,5000
+V0013,2025-08-05,CLI1009,MIGUEL DIAZ,CDMX,CUR001,Power BI,Hibrido,Dr. Ramirez,$3500 
+V0014,2025-01-17,CLI1002, Maria Lopez ,monterrey,CUR003,PowerBI,Hibrido,Ing. Torres,3500
+V0015,2025-01-16,CLI1007,CARLOS HERNANDEZ,Guadalajara,CUR008,sql,PRESENCIAL,Dr. Ramirez,5000
+V0016,2025-02-17,CLI1004,Ana Torres,Queretaro ,CUR001,Power BI,Online,Dr. Ramirez,4200
+V0017,2025-04-22,CLI1006, Sofia Martinez ,PUEBLA,CUR008,Power BI,PRESENCIAL,DRA LOPEZ,3500
+V0018,2025-04-30,CLI1004, Ana Torres ,Queretaro,CUR002,Python,PRESENCIAL,ing torres,
+V0019,2025-09-16,CLI1006,Sofia Martinez,Ciudad de Mexico,CUR008,Power BI,Online,DRA LOPEZ, 4200
+V0020,2025-11-05,CLI1009,MIGUEL DIAZ,monterrey,CUR008,Power BI,PRESENCIAL,Dr. Ramirez,3500
+V0021,2025-01-14,CLI1003,Pedro Ruiz,CDMX,CUR005,Power BI,Online,Ing. Torres,
+V0022,2025-10-15,CLI1009,Miguel Diaz,Puebla,CUR002,PYTHON,Online,Ing. Torres,3500
+V0023,2025-04-12,CLI1002, Maria Lopez ,Queretaro ,CUR007,Data Science,Hibrido,Ing. Torres,2500
+V0024,2025-11-29,CLI1006,Sofia Martinez,Ciudad de Mexico,CUR008,Excel Avanzado,Online,Dr. Ramirez, 4200
+V0025,2025-12-26,CLI1008,Laura Sanchez,Guadalajara,CUR002,Power BI,Presencial,Dra. Lopez,5000
+V0026,2025-10-07,CLI1003, Pedro Ruiz ,Puebla,CUR005,python,online,Dra. Lopez,2500
+V0027,2025-08-03,CLI1002, Maria Lopez ,Guadalajara,CUR004,PowerBI,Hibrido,DRA LOPEZ,4200
+V0028,2025-04-23,CLI1005,Luis Garcia,Ciudad de Mexico,CUR003,SQL,Hibrido,ing torres,$3500 
+V0029,2025-08-18,CLI1007,CARLOS HERNANDEZ,PUEBLA,CUR003,excel avanzado,online,Dr. Ramirez,2500
+V0030,2025-10-29,CLI1005, Luis Garcia ,Queretaro ,CUR006,sql,PRESENCIAL,Ing. Torres,4200
+V0031,2025-05-23,CLI1003,PEDRO RUIZ,CDMX,CUR005,PYTHON,Online,DRA LOPEZ,$3500 
+V0032,2025-01-04,CLI1001,Juan Perez,CDMX,CUR007,Excel Avanzado,Presencial,Dr. Ramirez,4200
+V0033,2025-03-23,CLI1005,Luis Garcia,Queretaro ,CUR005,PYTHON,Hibrido,Dra. Lopez,$3500 
+V0034,2025-12-24,CLI1001, Juan Perez ,Puebla,CUR002,excel avanzado,Hibrido,dr ramirez, 4200
+V0035,2025-08-05,CLI1005,LUIS GARCIA,Monterrey,CUR002,Excel Avanzado,Hibrido,Dra. Lopez,4200
+V0036,2025-06-24,CLI1002, Maria Lopez ,Ciudad de Mexico,CUR003,Power BI,PRESENCIAL,ing torres, 4200
+V0037,2025-05-23,CLI1007,CARLOS HERNANDEZ,Ciudad de Mexico,CUR004,excel avanzado,Hibrido,Ing. Torres,2500
+V0038,2025-03-21,CLI1006, Sofia Martinez ,Queretaro ,CUR005,sql,Hibrido,Dra. Lopez,3500
+V0039,2025-04-21,CLI1002,Maria Lopez,monterrey,CUR002,SQL,PRESENCIAL,ing torres,2500
+V0040,2025-06-22,CLI1010, Patricia Flores ,Queretaro,CUR002,excel avanzado,online,dr ramirez,3500
+V0041,2025-02-22,CLI1009, Miguel Diaz ,Puebla,CUR006,SQL,Hibrido,ing torres,
+V0042,2025-02-17,CLI1009,MIGUEL DIAZ,CDMX,CUR005,sql,PRESENCIAL,ing torres,
+V0043,2025-07-14,CLI1004,ANA TORRES,Puebla,CUR002,PYTHON,online,dr ramirez,$3500 
+V0044,2025-02-19,CLI1007, Carlos Hernandez ,monterrey,CUR007,Python,online,DRA LOPEZ,$3500 
+V0045,2025-07-03,CLI1007,CARLOS HERNANDEZ,Monterrey,CUR007,sql,Hibrido,Ing. Torres,$3500 
+V0046,2025-06-26,CLI1004, Ana Torres ,Monterrey,CUR003,SQL,online,Ing. Torres,$3500 
+V0047,2025-11-06,CLI1009,Miguel Diaz,monterrey,CUR003,Python,Presencial,DRA LOPEZ, 4200
+V0048,2025-05-16,CLI1006,Sofia Martinez,monterrey,CUR001,sql,Online,Dra. Lopez,5000
+V0049,2025-01-23,CLI1004,Ana Torres,Queretaro,CUR003,Power BI,online,DRA LOPEZ,4200
+V0050,2025-08-24,CLI1002, Maria Lopez ,PUEBLA,CUR002,PYTHON,Presencial,Dr. Ramirez,3500
+V0011,2025-10-02,CLI1001,Juan Perez,Ciudad de Mexico,CUR007,PYTHON,PRESENCIAL,Dr. Ramirez,$3500 
+V0052,2025-03-05,CLI1010,Patricia Flores,Puebla,CUR006,Python,PRESENCIAL,DRA LOPEZ,$3500 
+V0053,2025-07-13,CLI1002, Maria Lopez ,Puebla,CUR005,Data Science,Hibrido,DRA LOPEZ,3500
+V0054,2025-02-10,CLI1008,LAURA SANCHEZ,monterrey,CUR004,SQL,Hibrido,Ing. Torres,3000
+V0055,2025-10-10,CLI1007,CARLOS HERNANDEZ,Guadalajara,CUR005,Data Science,Presencial,Ing. Torres,$3500 
+V0056,2025-05-31,CLI1001, Juan Perez ,monterrey,CUR008,SQL,Online,Dr. Ramirez,4200
+V0057,2025-11-18,CLI1005,LUIS GARCIA,Puebla,CUR006,excel avanzado,Hibrido,Dra. Lopez,$3500 
+V0058,2025-11-13,CLI1006,SOFIA MARTINEZ,Queretaro ,CUR003,Power BI,online,ing torres,4200
+V0059,2025-07-05,CLI1008,LAURA SANCHEZ,CDMX,CUR006,PYTHON,Presencial,Dr. Ramirez,4200
+V0060,2025-10-23,CLI1009, Miguel Diaz ,monterrey,CUR002,Python,Hibrido,Dra. Lopez,3500
+V0061,2025-04-09,CLI1008,Laura Sanchez,Monterrey,CUR008,python,Hibrido,ing torres,3000
+V0062,2025-12-27,CLI1001, Juan Perez ,Monterrey,CUR004,sql,PRESENCIAL,DRA LOPEZ,3000
+V0063,2025-02-05,CLI1008, Laura Sanchez ,Queretaro ,CUR004,Power BI,Presencial,ing torres,2500
+V0064,2025-01-24,CLI1002,MARIA LOPEZ,PUEBLA,CUR008,PowerBI,Online,dr ramirez, 4200
+V0065,2025-12-05,CLI1005, Luis Garcia ,PUEBLA,CUR004,excel avanzado,Online,Ing. Torres,5000
+V0066,2025-04-27,CLI1004, Ana Torres ,PUEBLA,CUR005,SQL,Online,DRA LOPEZ,5000
+V0067,2025-05-29,CLI1005, Luis Garcia ,Queretaro,CUR007,Excel Avanzado,Hibrido,Dra. Lopez,3000
+V0068,2025-02-10,CLI1001, Juan Perez ,Queretaro,CUR003,SQL,Hibrido,ing torres,5000
+V0069,2025-04-30,CLI1008,LAURA SANCHEZ,Guadalajara,CUR007,Excel Avanzado,Presencial,ing torres,3000
+V0070,2025-02-21,CLI1002, Maria Lopez ,Queretaro,CUR008,python,Presencial,Dra. Lopez, 4200
+V0071,2025-07-14,CLI1006,SOFIA MARTINEZ,Queretaro,CUR004,sql,Presencial,Ing. Torres,
+V0072,2025-05-23,CLI1008,LAURA SANCHEZ,monterrey,CUR008,python,Online,ing torres,3500
+V0073,2025-08-21,CLI1010,Patricia Flores,CDMX,CUR002,SQL,Online,ing torres, 4200
+V0074,2025-11-22,CLI1003,PEDRO RUIZ,CDMX,CUR008,sql,online,DRA LOPEZ,
+V0075,2025-07-06,CLI1004, Ana Torres ,Ciudad de Mexico,CUR001,PowerBI,Presencial,Ing. Torres,$3500 
+V0076,2025-03-25,CLI1010,PATRICIA FLORES,Puebla,CUR007,SQL,Presencial,dr ramirez,$3500 
+V0077,2025-07-09,CLI1004, Ana Torres ,Monterrey,CUR007,PYTHON,PRESENCIAL,Dr. Ramirez,
+V0078,2025-07-01,CLI1003,Pedro Ruiz,QRO,CUR007,PYTHON,Online,DRA LOPEZ,
+V0079,2025-04-18,CLI1005,LUIS GARCIA,monterrey,CUR001,Data Science,Online,dr ramirez, 4200
+V0080,2025-12-10,CLI1005,LUIS GARCIA,QRO,CUR005,Python,Online,Dra. Lopez,3000
+V0081,2025-05-17,CLI1001, Juan Perez ,QRO,CUR003,PYTHON,Online,Ing. Torres, 4200
+V0082,2025-12-26,CLI1007, Carlos Hernandez ,Ciudad de Mexico,CUR008,PowerBI,Online,DRA LOPEZ,
+V0083,2025-12-16,CLI1005, Luis Garcia ,Monterrey,CUR005,SQL,Presencial,dr ramirez,5000
+V0084,2025-11-28,CLI1007, Carlos Hernandez ,Ciudad de Mexico,CUR001,excel avanzado,Presencial,Dr. Ramirez,5000
+V0085,2025-02-06,CLI1010,Patricia Flores,PUEBLA,CUR006,Power BI,online,Ing. Torres,5000
+V0086,2025-11-08,CLI1005, Luis Garcia ,Queretaro,CUR005,SQL,Online,Ing. Torres,3000
+V0087,2025-11-22,CLI1006,Sofia Martinez,QRO,CUR006,sql,Hibrido,Dra. Lopez,3500
+V0088,2025-03-29,CLI1003,PEDRO RUIZ,Queretaro ,CUR003,Power BI,PRESENCIAL,Ing. Torres,3000
+V0089,2025-10-01,CLI1006,SOFIA MARTINEZ,Ciudad de Mexico,CUR007,Excel Avanzado,Online,ing torres,
+V0090,2025-05-06,CLI1004, Ana Torres ,monterrey,CUR005,excel avanzado,Online,dr ramirez,3000
+V0091,2025-03-25,CLI1001,JUAN PEREZ,monterrey,CUR006,sql,PRESENCIAL,Ing. Torres,3500
+V0092,2025-08-25,CLI1003, Pedro Ruiz ,Guadalajara,CUR004,SQL,PRESENCIAL,dr ramirez,2500
+V0093,2025-07-14,CLI1006,SOFIA MARTINEZ,CDMX,CUR002,SQL,Online,ing torres, 4200
+V0094,2025-05-19,CLI1004,Ana Torres,PUEBLA,CUR004,python,Hibrido,dr ramirez,4200
+V0095,2025-11-24,CLI1010,PATRICIA FLORES,QRO,CUR003,sql,Presencial,dr ramirez,2500
+V0096,2025-12-19,CLI1002,Maria Lopez,QRO,CUR005,Python,online,ing torres,$3500 
+V0097,2025-10-13,CLI1007,CARLOS HERNANDEZ,Puebla,CUR004,Data Science,Online,ing torres,3000
+V0098,2025-04-23,CLI1009, Miguel Diaz ,Queretaro ,CUR008,SQL,Online,Dr. Ramirez, 4200
+V0099,2025-12-17,CLI1006,SOFIA MARTINEZ,PUEBLA,CUR005,SQL,Hibrido,Ing. Torres,$3500 
+V0100,2025-06-16,CLI1007,CARLOS HERNANDEZ,monterrey,CUR004,excel avanzado,Presencial,DRA LOPEZ,4200
+V0101,2025-01-29,CLI1007,CARLOS HERNANDEZ,QRO,CUR008,python,Online,Dr. Ramirez,5000
+V0102,2025-04-28,CLI1002, Maria Lopez ,Puebla,CUR006,python,PRESENCIAL,Dra. Lopez,2500
+V0103,2025-01-17,CLI1007,Carlos Hernandez,monterrey,CUR004,python,Presencial,Ing. Torres,4200
+V0104,2025-06-11,CLI1006, Sofia Martinez ,Ciudad de Mexico,CUR001,PYTHON,Presencial,ing torres,2500
+V0105,2025-07-25,CLI1005,Luis Garcia,QRO,CUR001,python,Hibrido,dr ramirez, 4200
+V0106,2025-05-18,CLI1007, Carlos Hernandez ,PUEBLA,CUR002,Python,online,dr ramirez,$3500 
+V0107,2025-02-03,CLI1010, Patricia Flores ,monterrey,CUR007,PowerBI,online,Ing. Torres,
+V0108,2025-04-19,CLI1002, Maria Lopez ,Ciudad de Mexico,CUR001,Power BI,PRESENCIAL,Ing. Torres,
+V0109,2025-10-18,CLI1001,JUAN PEREZ,Queretaro ,CUR001,SQL,PRESENCIAL,dr ramirez,5000
+V0110,2025-06-11,CLI1003,Pedro Ruiz,Monterrey,CUR001,excel avanzado,Online,DRA LOPEZ,$3500 
+V0111,2025-04-19,CLI1002,MARIA LOPEZ,Queretaro ,CUR007,Python,Presencial,dr ramirez, 4200
+V0112,2025-12-02,CLI1010,PATRICIA FLORES,PUEBLA,CUR007,sql,Online,DRA LOPEZ,4200
+V0113,2025-09-13,CLI1005, Luis Garcia ,Puebla,CUR004,Excel Avanzado,Presencial,ing torres,3000
+V0114,2025-07-22,CLI1003, Pedro Ruiz ,Queretaro ,CUR003,SQL,PRESENCIAL,Ing. Torres,3500
+V0115,2025-11-26,CLI1010,Patricia Flores,monterrey,CUR002,SQL,PRESENCIAL,ing torres,$3500 
+V0116,2025-08-23,CLI1005,LUIS GARCIA,Queretaro,CUR001,Excel Avanzado,Presencial,Dr. Ramirez,
+V0117,2025-03-15,CLI1002,MARIA LOPEZ,PUEBLA,CUR004,Excel Avanzado,Hibrido,DRA LOPEZ,2500
+V0118,2025-05-16,CLI1009,Miguel Diaz,CDMX,CUR008,SQL,Hibrido,Ing. Torres,3500
+V0119,2025-03-13,CLI1010, Patricia Flores ,Guadalajara,CUR002,Excel Avanzado,Online,Ing. Torres,2500
+V0120,2025-05-07,CLI1007,Carlos Hernandez,PUEBLA,CUR003,Excel Avanzado,Presencial,ing torres,$3500 
+V0031,2025-10-15,CLI1003,PEDRO RUIZ,CDMX,CUR005,PYTHON,Online,DRA LOPEZ,$3500 
+V0122,2025-10-03,CLI1001,Juan Perez,QRO,CUR003,python,Presencial,Dr. Ramirez,4200
+V0123,2025-05-15,CLI1009, Miguel Diaz ,Monterrey,CUR003,PYTHON,online,ing torres,3500
+V0124,2025-10-27,CLI1010,PATRICIA FLORES,PUEBLA,CUR005,SQL,online,Ing. Torres,4200
+V0125,2025-08-08,CLI1004,ANA TORRES,Ciudad de Mexico,CUR007,sql,Hibrido,DRA LOPEZ,
+V0126,2025-10-26,CLI1003,PEDRO RUIZ,Puebla,CUR002,sql,Online,Dra. Lopez,
+V0127,2025-07-24,CLI1002,Maria Lopez,monterrey,CUR006,Python,PRESENCIAL,Dr. Ramirez,3000
+V0128,2025-07-05,CLI1007,CARLOS HERNANDEZ,Queretaro ,CUR006,PYTHON,online,Dr. Ramirez,2500
+V0129,2025-04-23,CLI1005,Luis Garcia,Queretaro,CUR005,Power BI,online,Ing. Torres,2500
+V0130,2025-03-12,CLI1010,Patricia Flores,Monterrey,CUR008,python,Online,DRA LOPEZ,2500
+V0131,2025-09-18,CLI1010,PATRICIA FLORES,Monterrey,CUR001,Data Science,Presencial,dr ramirez,3500
+V0132,2025-09-10,CLI1010, Patricia Flores ,Puebla,CUR001,excel avanzado,PRESENCIAL,Dr. Ramirez,3000
+V0133,2025-02-16,CLI1007,Carlos Hernandez,Queretaro ,CUR006,PYTHON,Online,Dra. Lopez,$3500 
+V0134,2025-01-25,CLI1009, Miguel Diaz ,QRO,CUR003,python,PRESENCIAL,Dr. Ramirez,
+V0135,2025-02-26,CLI1005, Luis Garcia ,monterrey,CUR005,Python,online,Dra. Lopez, 4200
+V0136,2025-03-20,CLI1006,SOFIA MARTINEZ,monterrey,CUR007,Excel Avanzado,online,DRA LOPEZ, 4200
+V0137,2025-11-18,CLI1008,LAURA SANCHEZ,PUEBLA,CUR003,sql,Presencial,Dra. Lopez,3000
+V0138,2025-03-23,CLI1002,Maria Lopez,monterrey,CUR006,SQL,Online,ing torres, 4200
+V0139,2025-12-15,CLI1006,SOFIA MARTINEZ,Puebla,CUR003,Python,online,Ing. Torres, 4200
+V0140,2025-08-05,CLI1008, Laura Sanchez ,Queretaro,CUR003,SQL,Presencial,Dra. Lopez, 4200
+V0141,2025-11-02,CLI1008,Laura Sanchez,Queretaro ,CUR001,PYTHON,PRESENCIAL,Ing. Torres,5000
+V0142,2025-02-02,CLI1007, Carlos Hernandez ,monterrey,CUR004,python,online,Dr. Ramirez,5000
+V0143,2025-07-17,CLI1008, Laura Sanchez ,Queretaro ,CUR005,PowerBI,online,ing torres,$3500 
+V0144,2025-07-15,CLI1003,PEDRO RUIZ,Queretaro,CUR006,sql,Hibrido,Dra. Lopez,4200
+V0145,2025-11-02,CLI1008, Laura Sanchez ,Monterrey,CUR007,Data Science,Online,dr ramirez,
+V0146,2025-08-28,CLI1006, Sofia Martinez ,PUEBLA,CUR003,PYTHON,PRESENCIAL,Ing. Torres,3500
+V0147,2025-09-28,CLI1001,JUAN PEREZ,Puebla,CUR005,python,Presencial,dr ramirez,4200
+V0148,2025-05-09,CLI1009, Miguel Diaz ,PUEBLA,CUR003,PYTHON,Hibrido,ing torres,3500
+V0149,2025-10-11,CLI1010, Patricia Flores ,CDMX,CUR007,Data Science,Online,DRA LOPEZ,5000
+V0150,2025-01-06,CLI1009,MIGUEL DIAZ,monterrey,CUR002,Python,online,DRA LOPEZ, 4200
+V0151,2025-12-15,CLI1007, Carlos Hernandez ,Guadalajara,CUR007,PYTHON,Presencial,Ing. Torres,$3500 
+V0152,2025-02-28,CLI1009,Miguel Diaz,Queretaro ,CUR001,PowerBI,PRESENCIAL,Ing. Torres,4200
+V0153,2025-12-16,CLI1007,Carlos Hernandez,monterrey,CUR008,SQL,Presencial,DRA LOPEZ,4200
+V0154,2025-10-02,CLI1001,Juan Perez,Queretaro,CUR005,SQL,Hibrido,ing torres,$3500 
+V0155,2025-05-17,CLI1008,LAURA SANCHEZ,Guadalajara,CUR001,excel avanzado,Online,Ing. Torres,$3500 
+V0156,2025-11-25,CLI1009, Miguel Diaz ,Ciudad de Mexico,CUR002,PYTHON,Online,DRA LOPEZ,
+V0157,2025-06-24,CLI1006, Sofia Martinez ,Queretaro,CUR001,Python,online,ing torres, 4200
+V0158,2025-02-27,CLI1006, Sofia Martinez ,Guadalajara,CUR003,excel avanzado,Hibrido,ing torres,$3500 
+V0159,2025-05-31,CLI1005,LUIS GARCIA,Queretaro,CUR006,Excel Avanzado,Online,DRA LOPEZ,5000
+V0160,2025-08-11,CLI1010,PATRICIA FLORES,PUEBLA,CUR004,Python,Hibrido,DRA LOPEZ,
+V0161,2025-03-22,CLI1003,Pedro Ruiz,PUEBLA,CUR002,Power BI,Online,DRA LOPEZ,4200
+V0162,2025-08-21,CLI1006, Sofia Martinez ,Queretaro,CUR003,sql,online,Ing. Torres,
+V0163,2025-01-02,CLI1006, Sofia Martinez ,Guadalajara,CUR005,Data Science,PRESENCIAL,dr ramirez,$3500 
+V0164,2025-05-15,CLI1004, Ana Torres ,monterrey,CUR006,SQL,Presencial,Ing. Torres,4200
+V0165,2025-09-14,CLI1005,Luis Garcia,Ciudad de Mexico,CUR001,PowerBI,Online,Dra. Lopez,$3500 
+V0166,2025-04-02,CLI1008, Laura Sanchez ,Ciudad de Mexico,CUR003,python,Hibrido,ing torres,5000
+V0167,2025-09-17,CLI1010,Patricia Flores,Queretaro ,CUR007,Excel Avanzado,PRESENCIAL,Dr. Ramirez,4200
+V0168,2025-02-24,CLI1003,PEDRO RUIZ,Guadalajara,CUR005,Python,Online,ing torres,4200
+V0169,2025-11-17,CLI1010,Patricia Flores,Monterrey,CUR008,PYTHON,Presencial,Dr. Ramirez,3500
+V0170,2025-06-02,CLI1001,Juan Perez,Puebla,CUR008,PowerBI,online,Dr. Ramirez,
+V0171,2025-11-24,CLI1006, Sofia Martinez ,Guadalajara,CUR005,Data Science,online,dr ramirez,2500
+V0172,2025-09-17,CLI1010, Patricia Flores ,Queretaro ,CUR003,PYTHON,PRESENCIAL,Dra. Lopez, 4200
+V0173,2025-11-08,CLI1004,ANA TORRES,PUEBLA,CUR001,PowerBI,Presencial,ing torres,$3500 
+V0174,2025-04-12,CLI1004, Ana Torres ,Queretaro ,CUR005,Excel Avanzado,Hibrido,dr ramirez,5000
+V0175,2025-03-20,CLI1004, Ana Torres ,Puebla,CUR008,sql,online,dr ramirez, 4200
+V0176,2025-07-11,CLI1010,Patricia Flores,Puebla,CUR004,Data Science,Hibrido,dr ramirez,3000
+V0177,2025-03-24,CLI1003,Pedro Ruiz,Puebla,CUR008,Python,PRESENCIAL,dr ramirez,
+V0178,2025-10-04,CLI1009, Miguel Diaz ,Queretaro,CUR007,PowerBI,Online,ing torres,5000
+V0179,2025-09-29,CLI1004,Ana Torres,monterrey,CUR001,PowerBI,PRESENCIAL,dr ramirez,2500
+V0180,2025-01-01,CLI1003,PEDRO RUIZ,Queretaro ,CUR003,Excel Avanzado,Online,dr ramirez, 4200
+V0031,2025-11-03,CLI1003,PEDRO RUIZ,CDMX,CUR005,PYTHON,Online,DRA LOPEZ,$3500 
+V0182,2025-06-15,CLI1004, Ana Torres ,Monterrey,CUR001,Power BI,online,Dr. Ramirez,2500
+V0183,2025-09-08,CLI1002, Maria Lopez ,Queretaro,CUR007,SQL,online,Ing. Torres,4200
+V0184,2025-01-10,CLI1004, Ana Torres ,PUEBLA,CUR006,Power BI,Presencial,dr ramirez,$3500 
+V0185,2025-02-27,CLI1009, Miguel Diaz ,Monterrey,CUR008,Python,Presencial,ing torres,3500
+V0186,2025-07-05,CLI1007,Carlos Hernandez,Puebla,CUR008,Power BI,online,Dra. Lopez, 4200
+V0187,2025-06-07,CLI1003,PEDRO RUIZ,CDMX,CUR005,Power BI,Presencial,ing torres,3500
+V0188,2025-05-03,CLI1002,MARIA LOPEZ,Monterrey,CUR001,python,online,Ing. Torres,2500
+V0189,2025-01-30,CLI1009, Miguel Diaz ,Queretaro ,CUR008,Power BI,Hibrido,ing torres,4200
+V0190,2025-05-04,CLI1004,ANA TORRES,Ciudad de Mexico,CUR006,sql,PRESENCIAL,DRA LOPEZ,$3500 
+V0191,2025-10-18,CLI1002,Maria Lopez,PUEBLA,CUR004,PYTHON,Online,Dra. Lopez, 4200
+V0192,2025-02-10,CLI1009,Miguel Diaz,Monterrey,CUR004,SQL,Hibrido,ing torres,$3500 
+V0193,2025-02-13,CLI1006,SOFIA MARTINEZ,QRO,CUR006,PYTHON,online,ing torres,
+V0194,2025-09-06,CLI1009, Miguel Diaz ,Queretaro,CUR001,excel avanzado,online,ing torres,3000
+V0195,2025-02-05,CLI1004,Ana Torres,PUEBLA,CUR008,SQL,Online,Dr. Ramirez,$3500 
+V0196,2025-09-30,CLI1009,Miguel Diaz,Puebla,CUR007,PYTHON,Online,Dr. Ramirez,5000
+V0197,2025-03-06,CLI1009,MIGUEL DIAZ,Queretaro ,CUR006,excel avanzado,PRESENCIAL,Ing. Torres,5000
+V0198,2025-03-07,CLI1004,Ana Torres,Monterrey,CUR007,excel avanzado,Hibrido,DRA LOPEZ,2500
+V0199,2025-12-04,CLI1001, Juan Perez ,Queretaro ,CUR001,Power BI,online,ing torres,$3500 
+V0200,2025-09-01,CLI1010,Patricia Flores,Guadalajara,CUR001,Power BI,Hibrido,dr ramirez,2500

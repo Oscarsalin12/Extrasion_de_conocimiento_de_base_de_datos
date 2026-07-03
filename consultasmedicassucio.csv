@@ -1,0 +1,201 @@
+﻿id_paciente,paciente,id_especialidad,especialidad,medico,ciudad,tipo_consulta,fecha,costo
+PAC002,Juan Perez,ESP001,Cardiologia,Dr Garcia,GDL,urgencias,2026-02-05,$650
+PAC001,Ana Lopez,ESP001,Cardiologia,Dr Garcia,cdmx,urgencias,2026-06-04,$1200
+PAC008,Miguel Diaz ,ESP005,Medicina General,dr ramirez,Guadalajara,General,2026-06-28,$ 650
+PAC002, Juan Perez,ESP001,Cardiologia,dr perez,Monterrey,general,2026-03-30,$800
+PAC009,Patricia Flores,ESP003,Dermatologia,Dr Perez, puebla ,Seguimiento,2026-02-19,$1200
+PAC002,JUAN PEREZ,ESP004,Traumatologia,dr ramirez,Guadalajara, especialidad ,2026-04-04,1500
+PAC002,Juan Perez ,ESP005,Medicina General,Dr Ramirez,cdmx,urgencias,2026-04-29,$650
+PAC004,PEDRO RUIZ,ESP001,Cardiologia,dr garcia,Guadalajara, especialidad ,2026-01-17,$ 800
+PAC008, Miguel Diaz,ESP002,Pediatria,dr garcia,GDL,urgencias,2026-05-24,$ 650
+PAC004,Pedro Ruiz,ESP002,Pediatria,Dra Lopez, puebla ,Especialidad,2026-01-13,$ 500
+PAC007,Sofia Martinez,ESP005,Medicina General,dr garcia,monterrey,Seguimiento,2026-01-03,$ 1200
+PAC007,SOFIA MARTINEZ,ESP002,Pediatria,Dr Garcia,monterrey, GENERAL ,2026-03-09,1500
+PAC010,Luis Torres,ESP002,Pediatria,dr garcia,CDMX,Seguimiento,2026-05-19,$650
+PAC006,Carlos Hernandez,ESP003,Dermatologia,dr perez,Ciudad de Mexico, GENERAL ,2026-05-26,$650
+PAC003,Maria Garcia ,ESP004,Traumatologia,Dra Lopez, puebla ,urgencias,2026-05-16,800
+PAC006,CARLOS HERNANDEZ,ESP004,Traumatologia,dr perez,Puebla,Especialidad,2026-03-05,500
+PAC004,Pedro Ruiz,ESP001,Cardiologia,Dr Ramirez,queretaro,general,2026-01-18,650
+PAC008,Miguel Diaz ,ESP002,Pediatria,dra lopez, puebla ,Urgencias,2026-05-27,$1500
+PAC002,Juan Perez,ESP004,Traumatologia,Dr Perez, guadalajara , especialidad ,2026-04-30,$950
+PAC004,PEDRO RUIZ,ESP002,Pediatria,dr ramirez,Ciudad de Mexico,Especialidad,2026-04-19,$ 650
+PAC009,PATRICIA FLORES,ESP001,Cardiologia,dra torres,qro,General,2026-03-02,$ 500
+PAC001,Ana Lopez ,ESP002,Pediatria,dr ramirez,monterrey,General,2026-03-09,$950
+PAC005,Laura Sanchez,ESP002,Pediatria,dr perez,queretaro,General,2026-03-22,1500
+PAC002,Juan Perez ,ESP002,Pediatria,Dr Perez,Queretaro, GENERAL ,2026-03-02,$1500
+PAC007, Sofia Martinez,ESP005,Medicina General,dra lopez, puebla ,Seguimiento,2026-02-22,800
+PAC005,Laura Sanchez,ESP004,Traumatologia,Dr Perez,GDL,general,2026-04-28,$500
+PAC006,Carlos Hernandez ,ESP001,Cardiologia,dr garcia,cdmx,Seguimiento,2026-02-10,800
+PAC009,Patricia Flores,ESP003,Dermatologia,Dr Garcia, QRO ,urgencias,2026-01-30,800
+PAC004, Pedro Ruiz,ESP003,Dermatologia,Dr Perez,cdmx,seguimiento,2026-05-06,$ 1200
+PAC001,ANA LOPEZ,ESP001,Cardiologia,dra torres,GDL,Urgencias,2026-03-09,$1500
+PAC002,JUAN PEREZ,ESP002,Pediatria,Dra Torres,Puebla,general,2026-05-30,$ 800
+PAC001, Ana Lopez,ESP003,Dermatologia,dr garcia,cdmx,Urgencias,2026-01-27,$1500
+PAC003,Maria Garcia ,ESP002,Pediatria,dra lopez,Monterrey, GENERAL ,2026-03-27,$650
+PAC007, Sofia Martinez,ESP001,Cardiologia,Dr Ramirez,Monterrey,Urgencias,2026-04-28,650
+PAC004, Pedro Ruiz,ESP004,Traumatologia,dr garcia,GDL,seguimiento,2026-03-13,$500
+PAC002,Juan Perez ,ESP003,Dermatologia,dr ramirez,CDMX,Seguimiento,2026-01-28,$ 500
+PAC010,Luis Torres,ESP002,Pediatria,Dr Garcia, guadalajara ,general,2026-04-22,$1500
+PAC006, Carlos Hernandez,ESP005,Medicina General,dra torres, guadalajara , GENERAL ,2026-03-18,$ 1500
+PAC009,PATRICIA FLORES,ESP002,Pediatria,dr garcia,CDMX,Especialidad,2026-04-08,$ 1500
+PAC005,Laura Sanchez ,ESP002,Pediatria,dra lopez,Monterrey,Seguimiento,2026-04-24,$ 950
+PAC009, Patricia Flores,ESP005,Medicina General,Dra Lopez,Guadalajara,General,2026-06-22,$650
+PAC004,PEDRO RUIZ,ESP004,Traumatologia,dra torres, puebla ,General,2026-04-17,$950
+PAC001,Ana Lopez ,ESP001,Cardiologia,Dr Perez,Monterrey,urgencias,2026-06-28,$650
+PAC008,Miguel Diaz ,ESP005,Medicina General,dr garcia,Puebla,seguimiento,2026-06-06,$ 950
+PAC005, Laura Sanchez,ESP002,Pediatria,Dra Torres,GDL, especialidad ,2026-03-03,$1500
+PAC005,LAURA SANCHEZ,ESP003,Dermatologia,Dra Torres,GDL,General,2026-02-08,$650
+PAC007,SOFIA MARTINEZ,ESP004,Traumatologia,dra torres,GDL,Especialidad,2026-01-16,950
+PAC007,Sofia Martinez ,ESP004,Traumatologia,Dr Garcia,qro,Seguimiento,2026-04-10,$ 800
+PAC007,Sofia Martinez ,ESP004,Traumatologia,dra lopez,queretaro,Especialidad,2026-06-21,$ 800
+PAC010,LUIS TORRES,ESP005,Medicina General,Dra Torres,Queretaro,general,2026-04-20,$ 1500
+PAC006, Carlos Hernandez,ESP002,Pediatria,dra torres,Monterrey,seguimiento,2026-04-08,$800
+PAC009,Patricia Flores,ESP001,Cardiologia,Dr Perez,Guadalajara,Urgencias,2026-01-18,1500
+PAC003,MARIA GARCIA,ESP002,Pediatria,dra torres,CDMX,Especialidad,2026-01-30,1500
+PAC010,Luis Torres,ESP001,Cardiologia,dr ramirez,CDMX,Seguimiento,2026-05-29,$500
+PAC010,Luis Torres,ESP002,Pediatria,Dr Garcia, QRO ,seguimiento,2026-06-03,1500
+PAC006,Carlos Hernandez ,ESP001,Cardiologia,dr perez, puebla ,seguimiento,2026-04-18,500
+PAC003,Maria Garcia ,ESP004,Traumatologia,dra torres,cdmx,seguimiento,2026-05-18,$ 1200
+PAC004,Pedro Ruiz ,ESP001,Cardiologia,Dr Ramirez, guadalajara , especialidad ,2026-04-29,$650
+PAC008, Miguel Diaz,ESP002,Pediatria,Dr Garcia,GDL,Seguimiento,2026-03-13,$800
+PAC004,Pedro Ruiz ,ESP004,Traumatologia,Dra Torres,Monterrey,urgencias,2026-05-02,$1500
+PAC007, Sofia Martinez,ESP002,Pediatria,dra torres, guadalajara ,seguimiento,2026-05-22,$ 950
+PAC005, Laura Sanchez,ESP003,Dermatologia,Dr Perez,Ciudad de Mexico,General,2026-02-19,1500
+PAC008, Miguel Diaz,ESP003,Dermatologia,dra lopez,Puebla,seguimiento,2026-02-19,$500
+PAC009, Patricia Flores,ESP002,Pediatria,dra lopez,Guadalajara,General,2026-05-22,500
+PAC005,Laura Sanchez,ESP004,Traumatologia,dr ramirez,Monterrey,Especialidad,2026-02-17,$ 800
+PAC008, Miguel Diaz,ESP001,Cardiologia,Dr Perez,Puebla, GENERAL ,2026-02-08,$ 650
+PAC010,Luis Torres ,ESP005,Medicina General,dra torres, puebla ,urgencias,2026-04-08,1200
+PAC010,LUIS TORRES,ESP001,Cardiologia,Dr Ramirez,Puebla,General,2026-06-10,$650
+PAC009,Patricia Flores ,ESP001,Cardiologia,Dr Ramirez,Ciudad de Mexico,general,2026-04-26,950
+PAC005,LAURA SANCHEZ,ESP004,Traumatologia,Dra Torres,queretaro,Urgencias,2026-06-10,$ 800
+PAC003, Maria Garcia,ESP001,Cardiologia,Dra Torres,qro,urgencias,2026-06-02,800
+PAC007,Sofia Martinez,ESP003,Dermatologia,dra torres, puebla ,Especialidad,2026-01-21,$950
+PAC004,Pedro Ruiz,ESP005,Medicina General,dra lopez, puebla ,general,2026-03-10,$1500
+PAC010,Luis Torres ,ESP004,Traumatologia,dr ramirez,Monterrey,General,2026-03-31,$ 950
+PAC007,Sofia Martinez ,ESP004,Traumatologia,dr perez, guadalajara , especialidad ,2026-01-10,$1200
+PAC007,SOFIA MARTINEZ,ESP005,Medicina General,dr garcia,qro, especialidad ,2026-01-14,$950
+PAC004,Pedro Ruiz ,ESP003,Dermatologia,Dr Perez,Puebla,Urgencias,2026-04-23,$ 800
+PAC009,Patricia Flores,ESP001,Cardiologia,Dra Torres,Puebla, especialidad ,2026-02-27,500
+PAC005,LAURA SANCHEZ,ESP005,Medicina General,Dra Torres, guadalajara ,Especialidad,2026-05-01,950
+PAC009, Patricia Flores,ESP002,Pediatria,dr perez, QRO ,seguimiento,2026-03-29,$950
+PAC008,Miguel Diaz ,ESP005,Medicina General,dra torres,Monterrey,Seguimiento,2026-05-22,800
+PAC007,Sofia Martinez ,ESP002,Pediatria,Dra Torres,monterrey,General,2026-05-02,$800
+PAC009,Patricia Flores ,ESP005,Medicina General,Dr Perez, guadalajara , GENERAL ,2026-01-26,$950
+PAC002,Juan Perez ,ESP004,Traumatologia,dr perez,GDL,seguimiento,2026-06-27,$ 1200
+PAC008, Miguel Diaz,ESP005,Medicina General,Dra Lopez,qro,General,2026-06-11,650
+PAC002, Juan Perez,ESP004,Traumatologia,dr perez,CDMX,seguimiento,2026-01-12,$ 500
+PAC003,MARIA GARCIA,ESP002,Pediatria,Dra Lopez,Puebla, especialidad ,2026-06-24,1200
+PAC004, Pedro Ruiz,ESP004,Traumatologia,dra torres,Puebla,urgencias,2026-04-29,$ 650
+PAC009, Patricia Flores,ESP002,Pediatria,dra torres,qro, especialidad ,2026-05-31,$800
+PAC007, Sofia Martinez,ESP004,Traumatologia,dr garcia, QRO ,Urgencias,2026-05-27,950
+PAC007, Sofia Martinez,ESP003,Dermatologia,dra lopez,queretaro, GENERAL ,2026-05-08,$1200
+PAC010,Luis Torres,ESP003,Dermatologia,dr ramirez,Ciudad de Mexico, GENERAL ,2026-06-15,$ 1500
+PAC003,MARIA GARCIA,ESP001,Cardiologia,Dra Lopez,GDL,seguimiento,2026-04-17,1500
+PAC009, Patricia Flores,ESP003,Dermatologia,dr perez,Ciudad de Mexico,Seguimiento,2026-03-17,$950
+PAC007, Sofia Martinez,ESP005,Medicina General,Dr Garcia, guadalajara ,general,2026-01-04,950
+PAC005,LAURA SANCHEZ,ESP005,Medicina General,Dra Torres,monterrey,Seguimiento,2026-06-22,500
+PAC002,Juan Perez,ESP004,Traumatologia,dr perez, guadalajara ,Especialidad,2026-02-05,$500
+PAC004,Pedro Ruiz ,ESP005,Medicina General,Dr Garcia,CDMX,Especialidad,2026-04-05,$ 950
+PAC010,LUIS TORRES,ESP004,Traumatologia,dra torres,Guadalajara,general,2026-04-05,$1500
+PAC006,CARLOS HERNANDEZ,ESP005,Medicina General,dr perez,Guadalajara, GENERAL ,2026-03-12,$950
+PAC010,LUIS TORRES,ESP001,Cardiologia,Dr Perez,queretaro,Seguimiento,2026-02-02,$ 650
+PAC003, Maria Garcia,ESP005,Medicina General,Dra Lopez,Queretaro,Seguimiento,2026-02-03,$650
+PAC006, Carlos Hernandez,ESP002,Pediatria,Dr Perez, puebla ,Seguimiento,2026-02-14,500
+PAC002,Juan Perez,ESP004,Traumatologia,Dra Torres,Monterrey,seguimiento,2026-06-01,$ 1200
+PAC001,Ana Lopez,ESP001,Cardiologia,dra torres,Monterrey,Especialidad,2026-06-25,$ 950
+PAC010, Luis Torres,ESP002,Pediatria,dra torres,qro,urgencias,2026-06-09,$800
+PAC002,Juan Perez ,ESP005,Medicina General,dr ramirez,CDMX, especialidad ,2026-02-28,950
+PAC002, Juan Perez,ESP003,Dermatologia,dra lopez,Monterrey,Seguimiento,2026-03-07,$1500
+PAC002,Juan Perez,ESP004,Traumatologia,dr garcia,Queretaro,seguimiento,2026-05-23,$ 650
+PAC007,SOFIA MARTINEZ,ESP001,Cardiologia,dra lopez,Guadalajara,Seguimiento,2026-01-27,$ 800
+PAC009,Patricia Flores ,ESP003,Dermatologia,Dr Garcia, QRO ,Seguimiento,2026-02-27,$1200
+PAC005,LAURA SANCHEZ,ESP003,Dermatologia,dr garcia,Guadalajara,Seguimiento,2026-02-16,500
+PAC001,Ana Lopez ,ESP001,Cardiologia,Dr Ramirez, puebla ,urgencias,2026-04-18,950
+PAC006,CARLOS HERNANDEZ,ESP005,Medicina General,Dr Garcia,Puebla,general,2026-02-09,$ 500
+PAC007,SOFIA MARTINEZ,ESP004,Traumatologia,Dr Garcia, puebla , especialidad ,2026-03-11,$950
+PAC005,Laura Sanchez ,ESP005,Medicina General,Dr Garcia,Monterrey,Seguimiento,2026-02-26,$ 500
+PAC004,Pedro Ruiz,ESP002,Pediatria,dra torres,Guadalajara,Seguimiento,2026-01-31,$ 800
+PAC009,Patricia Flores,ESP002,Pediatria,Dra Torres, puebla ,Seguimiento,2026-04-12,$ 500
+PAC010,Luis Torres ,ESP004,Traumatologia,Dr Ramirez, puebla ,Especialidad,2026-06-13,$ 1500
+PAC003,Maria Garcia,ESP005,Medicina General,dra lopez,monterrey,Seguimiento,2026-04-22,$ 500
+PAC005,Laura Sanchez,ESP003,Dermatologia,Dr Garcia,CDMX,seguimiento,2026-01-20,650
+PAC003,MARIA GARCIA,ESP002,Pediatria,Dr Garcia,Queretaro,Urgencias,2026-02-20,800
+PAC008, Miguel Diaz,ESP004,Traumatologia,Dr Ramirez, puebla ,Especialidad,2026-05-25,$ 1500
+PAC008,Miguel Diaz,ESP003,Dermatologia,dr ramirez, guadalajara ,General,2026-05-10,$800
+PAC006,Carlos Hernandez ,ESP003,Dermatologia,Dra Torres,qro, GENERAL ,2026-06-02,1200
+PAC004,Pedro Ruiz,ESP003,Dermatologia,Dra Torres, puebla ,Especialidad,2026-02-08,1200
+PAC003,MARIA GARCIA,ESP001,Cardiologia,dr ramirez,CDMX, especialidad ,2026-05-15,$ 950
+PAC006,Carlos Hernandez,ESP005,Medicina General,dr garcia, QRO ,seguimiento,2026-03-26,500
+PAC010,LUIS TORRES,ESP002,Pediatria,dr ramirez,GDL, GENERAL ,2026-06-19,1200
+PAC007,Sofia Martinez ,ESP002,Pediatria,Dr Ramirez,Puebla, GENERAL ,2026-05-24,800
+PAC007,SOFIA MARTINEZ,ESP005,Medicina General,dra lopez, guadalajara ,General,2026-03-21,$800
+PAC003,Maria Garcia,ESP002,Pediatria,Dr Ramirez,qro,Seguimiento,2026-05-10,$500
+PAC003, Maria Garcia,ESP005,Medicina General,dra lopez,cdmx, especialidad ,2026-04-16,500
+PAC008,MIGUEL DIAZ,ESP002,Pediatria,dr ramirez, puebla ,urgencias,2026-05-01,$ 800
+PAC009,PATRICIA FLORES,ESP005,Medicina General,Dr Ramirez,monterrey,urgencias,2026-06-04,650
+PAC002, Juan Perez,ESP005,Medicina General,Dra Torres,qro,Seguimiento,2026-02-11,$500
+PAC008, Miguel Diaz,ESP003,Dermatologia,dra lopez,Queretaro, especialidad ,2026-04-12,$500
+PAC001,Ana Lopez,ESP003,Dermatologia,dr ramirez,queretaro,seguimiento,2026-02-05,$ 650
+PAC010,LUIS TORRES,ESP001,Cardiologia,dr garcia,Queretaro,general,2026-02-25,$800
+PAC005,Laura Sanchez ,ESP001,Cardiologia,Dr Perez,qro,Urgencias,2026-06-13,950
+PAC009,Patricia Flores,ESP005,Medicina General,dr garcia,Ciudad de Mexico,urgencias,2026-04-20,$800
+PAC002,Juan Perez,ESP005,Medicina General,dra torres,Guadalajara, GENERAL ,2026-05-20,$ 1200
+PAC006,CARLOS HERNANDEZ,ESP003,Dermatologia,dr perez,queretaro,Seguimiento,2026-03-30,$ 500
+PAC009,PATRICIA FLORES,ESP003,Dermatologia,Dra Lopez,cdmx, especialidad ,2026-05-03,$1500
+PAC005, Laura Sanchez,ESP002,Pediatria,dr garcia,qro,urgencias,2026-03-22,$500
+PAC004, Pedro Ruiz,ESP003,Dermatologia,dr perez, guadalajara ,general,2026-03-26,1500
+PAC008,Miguel Diaz ,ESP004,Traumatologia,dr ramirez,Guadalajara,urgencias,2026-06-27,$950
+PAC007,Sofia Martinez,ESP005,Medicina General,dr ramirez,CDMX,seguimiento,2026-01-27,800
+PAC007, Sofia Martinez,ESP002,Pediatria,dr garcia,monterrey,Seguimiento,2026-01-11,$950
+PAC007,Sofia Martinez ,ESP003,Dermatologia,Dr Perez,Puebla,Urgencias,2026-02-06,500
+PAC006,Carlos Hernandez ,ESP003,Dermatologia,dr ramirez,monterrey,General,2026-02-09,1200
+PAC003, Maria Garcia,ESP005,Medicina General,Dra Lopez,Guadalajara,Especialidad,2026-06-16,$ 800
+PAC009,Patricia Flores ,ESP004,Traumatologia,dra lopez, puebla ,General,2026-03-08,$800
+PAC003,Maria Garcia,ESP001,Cardiologia,dr ramirez,Monterrey,urgencias,2026-04-24,$ 1500
+PAC003,MARIA GARCIA,ESP002,Pediatria,dra lopez,Guadalajara,urgencias,2026-02-21,500
+PAC010,Luis Torres,ESP003,Dermatologia,dr ramirez,monterrey,urgencias,2026-01-23,$ 1200
+PAC010,Luis Torres ,ESP001,Cardiologia,dra torres,Ciudad de Mexico,Seguimiento,2026-01-19,$1500
+PAC007, Sofia Martinez,ESP005,Medicina General,Dra Lopez, QRO , GENERAL ,2026-02-09,$1200
+PAC006, Carlos Hernandez,ESP005,Medicina General,dra lopez,GDL, GENERAL ,2026-02-20,$800
+PAC009, Patricia Flores,ESP002,Pediatria,Dr Garcia,Puebla,Urgencias,2026-06-18,$650
+PAC010,Luis Torres,ESP003,Dermatologia,dra torres,cdmx, especialidad ,2026-06-13,$ 1200
+PAC004,Pedro Ruiz,ESP004,Traumatologia,dra lopez, guadalajara , especialidad ,2026-06-26,$ 500
+PAC004, Pedro Ruiz,ESP003,Dermatologia,Dra Torres, puebla ,Urgencias,2026-03-23,$ 800
+PAC004,PEDRO RUIZ,ESP004,Traumatologia,Dr Perez, QRO ,seguimiento,2026-03-05,950
+PAC007,SOFIA MARTINEZ,ESP002,Pediatria,dra lopez,cdmx,seguimiento,2026-03-22,$ 1200
+PAC005,Laura Sanchez ,ESP004,Traumatologia,Dra Lopez, QRO ,General,2026-05-10,$950
+PAC005,Laura Sanchez,ESP004,Traumatologia,dr perez,Puebla, especialidad ,2026-05-18,800
+PAC006,CARLOS HERNANDEZ,ESP004,Traumatologia,dr ramirez,Guadalajara,general,2026-01-14,950
+PAC008,Miguel Diaz ,ESP005,Medicina General,dr ramirez,GDL,general,2026-01-25,$650
+PAC004,Pedro Ruiz,ESP005,Medicina General,Dr Perez, puebla , especialidad ,2026-01-11,1200
+PAC008, Miguel Diaz,ESP002,Pediatria,dra lopez, puebla ,urgencias,2026-06-06,800
+PAC009, Patricia Flores,ESP005,Medicina General,Dr Ramirez,monterrey,seguimiento,2026-01-05,950
+PAC001,ANA LOPEZ,ESP005,Medicina General,dr perez,Monterrey,seguimiento,2026-05-29,$1500
+PAC004,Pedro Ruiz ,ESP001,Cardiologia,dr ramirez,Puebla,general,2026-01-05,650
+PAC004,PEDRO RUIZ,ESP004,Traumatologia,Dr Garcia, puebla , especialidad ,2026-01-16,1500
+PAC007, Sofia Martinez,ESP003,Dermatologia,dr ramirez,Ciudad de Mexico,Especialidad,2026-03-29,$ 1200
+PAC009,Patricia Flores ,ESP003,Dermatologia,dr ramirez,CDMX,seguimiento,2026-02-23,$ 800
+PAC002,JUAN PEREZ,ESP005,Medicina General,Dr Ramirez, puebla ,Especialidad,2026-03-30,$ 950
+PAC008, Miguel Diaz,ESP003,Dermatologia,dr garcia,Monterrey,Urgencias,2026-05-18,650
+PAC010,LUIS TORRES,ESP002,Pediatria,Dra Lopez,Ciudad de Mexico,general,2026-05-16,$ 1500
+PAC008,Miguel Diaz ,ESP001,Cardiologia,dra torres,cdmx,General,2026-02-10,$ 1200
+PAC006,CARLOS HERNANDEZ,ESP003,Dermatologia,Dr Garcia,queretaro,general,2026-05-27,$1500
+PAC001,Ana Lopez,ESP004,Traumatologia,dr perez,Monterrey,urgencias,2026-03-16,$ 1500
+PAC008,Miguel Diaz ,ESP005,Medicina General,Dr Ramirez,Puebla, especialidad ,2026-05-10,$650
+PAC008, Miguel Diaz,ESP003,Dermatologia,Dr Garcia,Ciudad de Mexico, GENERAL ,2026-03-28,1500
+PAC007,Sofia Martinez,ESP004,Traumatologia,Dra Lopez, puebla ,seguimiento,2026-04-13,$500
+PAC001, Ana Lopez,ESP003,Dermatologia,Dr Ramirez,monterrey,urgencias,2026-03-10,950
+PAC004,Pedro Ruiz ,ESP001,Cardiologia,dr garcia,Queretaro, especialidad ,2026-02-10,$ 800
+PAC010,Luis Torres ,ESP002,Pediatria,dr garcia,CDMX,urgencias,2026-02-09,950
+PAC004, Pedro Ruiz,ESP002,Pediatria,Dr Perez,Puebla, GENERAL ,2026-04-25,1200
+PAC004,Pedro Ruiz ,ESP005,Medicina General,Dr Perez, puebla ,Urgencias,2026-03-25,650
+PAC008,Miguel Diaz ,ESP001,Cardiologia,Dr Garcia,monterrey,urgencias,2026-04-17,1200
+PAC001,Ana Lopez,ESP004,Traumatologia,dr perez, guadalajara , GENERAL ,2026-02-25,$1500
+PAC009,Patricia Flores ,ESP001,Cardiologia,Dra Lopez,qro, especialidad ,2026-03-15,$ 500
+PAC008,MIGUEL DIAZ,ESP004,Traumatologia,Dr Ramirez,Monterrey, GENERAL ,2026-06-19,$ 1500
+PAC002,Juan Perez,ESP001,Cardiologia,Dr Garcia,GDL,urgencias,2026-02-05,$650
+PAC001,Ana Lopez,ESP001,Cardiologia,Dr Garcia,cdmx,urgencias,2026-06-04,$1200
+PAC008,Miguel Diaz ,ESP005,Medicina General,dr ramirez,Guadalajara,General,2026-06-28,$ 650
+PAC002, Juan Perez,ESP001,Cardiologia,dr perez,Monterrey,general,2026-03-30,$800
+PAC009,Patricia Flores,ESP003,Dermatologia,Dr Perez, puebla ,Seguimiento,2026-02-19,$1200
